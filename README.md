@@ -1,4 +1,4 @@
-# ts-virtual-dir
-Demo of virtual directories in Typescript
+# ts-path-mapping
+Demo of Path mapping in Typescript
 
-See [TypeScript documentation](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#virtual-directories-with-rootdirs)
+See [TypeScript documentation](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#path-mapping)
